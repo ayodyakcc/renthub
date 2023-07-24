@@ -1,0 +1,10 @@
+{
+    "name": "ayody/renthub",
+    "description": "rent",
+    "require": {},
+    "config": {
+        "secure-http": false
+    }
+    
+}
+

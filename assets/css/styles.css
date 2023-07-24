@@ -1,0 +1,30 @@
+.navbar {
+  background: #0094ff;
+}
+
+.btn {
+  color: var(--bs-black);
+  background: var(--bs-gray-100);
+}
+
+.quota {
+  width: 66%;
+  margin-left: 211px;
+  margin-top: 38px;
+  border-radius: 0px;
+  padding-left: 106px;
+}
+
+#eligible-qt {
+}
+
+#quota-section {
+  width: 56%;
+}
+
+@media (min-width: 1400px) {
+  #quota-section {
+    width: 70%;
+  }
+}
+

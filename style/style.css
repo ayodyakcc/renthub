@@ -1,0 +1,55 @@
+
+
+
+.form{
+    max-width: 550px;
+    margin: 0 auto;
+    border: 0.2rem solid rgb(187, 180, 180);
+    border-radius: 20px;
+    padding:25px;
+    margin-top:150px;
+    
+}
+
+.login{
+    
+    font-size:40px;
+}
+
+.hdin{
+    
+    position: relative;
+    top:90px;
+}
+
+.register{
+    max-width: 950px;
+    margin: 0 auto;
+    border: 0.2rem solid rgb(187, 180, 180);
+    padding: 27px;
+    border-radius: 20px;
+    position: relative;
+    top:30px;
+}
+
+.hdin--reg {
+
+    position: relative;
+    top: 30px; 
+    text-align: center;
+    font-size:35px;
+
+}
+
+/* .register{
+    background-color:rgb(150, 255, 202);
+} */
+
+.order__tabel{
+    margin  :50px;
+}
+
+.panel-title {display: inline;font-weight: bold;}
+.checkbox.pull-right { margin: 0; }
+.pl-ziro { padding-left: 0px; }
+
